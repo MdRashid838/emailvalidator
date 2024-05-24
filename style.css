@@ -73,9 +73,7 @@ input[type='text'] {
 }
 
 @media only screen and (max-width: 600px){
-    body{
-        background-color: silver;
-    }
+    
     .container{
         font-size: 12px;
     }
